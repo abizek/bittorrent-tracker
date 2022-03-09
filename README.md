@@ -1,5 +1,9 @@
 # bittorrent-tracker [![ci][ci-image]][ci-url] [![npm][npm-image]][npm-url] [![downloads][downloads-image]][downloads-url] [![javascript style guide][standard-image]][standard-url]
 
+Same as [webtorrent/bittorrent-tracker](https://github.com/webtorrent/bittorrent-tracker) except for WebSocketTracker exposed through the standalone script `websockettracker.min.js`.
+
+---
+
 [ci-image]: https://img.shields.io/github/workflow/status/webtorrent/bittorrent-tracker/ci/master
 [ci-url]: https://github.com/webtorrent/bittorrent-tracker/actions
 [npm-image]: https://img.shields.io/npm/v/bittorrent-tracker.svg
